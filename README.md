@@ -6,11 +6,11 @@ A simple QR Code Generator built using **HTML, CSS, and JavaScript**. This tool 
 
 ## 🚀 Features
 
-- 🎨 **Simple & Clean UI** – Minimalistic and user-friendly design.
-- ⚡ **Instant QR Code Generation** – Generates QR codes dynamically.
-- 🎭 **Error Handling** – Shows a shake effect if the input is empty.
-- 📱 **Responsive Design** – Works well on different screen sizes.
-- ⌨️ **Keyboard Support** – Press 'Enter' to generate a QR code.
+-  **Simple & Clean UI** – Minimalistic and user-friendly design.
+-  **Instant QR Code Generation** – Generates QR codes dynamically.
+- **Error Handling** – Shows a shake effect if the input is empty.
+- **Responsive Design** – Works well on different screen sizes.
+-  **Keyboard Support** – Press 'Enter' to generate a QR code.
 ---
 
 ## 🖥️ Live Demo
