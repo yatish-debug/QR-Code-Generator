@@ -4,7 +4,7 @@ A simple QR Code Generator built using **HTML, CSS, and JavaScript**. This tool 
 
 ---
 
-## 🚀 Features
+##  Features
 
 -  **Simple & Clean UI** – Minimalistic and user-friendly design.
 -  **Instant QR Code Generation** – Generates QR codes dynamically.
@@ -13,12 +13,12 @@ A simple QR Code Generator built using **HTML, CSS, and JavaScript**. This tool 
 -  **Keyboard Support** – Press 'Enter' to generate a QR code.
 ---
 
-## 🖥️ Live Demo
+##  Live Demo
 [🔗 Click here to view the project](https://qr-code-generator-three-theta.vercel.app/) 
 
 ---
 
-## 📸 Screenshot
+##  Screenshot
 ![qr1](https://github.com/user-attachments/assets/0915d92a-bb4b-4d57-b9fe-33df99983cc7)
 
 ![qr2](https://github.com/user-attachments/assets/7f633938-948a-4139-86d4-bc3f00031d05)
@@ -27,7 +27,7 @@ A simple QR Code Generator built using **HTML, CSS, and JavaScript**. This tool 
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **HTML** – Structure of the page.
 - **CSS** – Styling and animations.
@@ -35,7 +35,7 @@ A simple QR Code Generator built using **HTML, CSS, and JavaScript**. This tool 
 
 ---
 
-## 📌 How to Use
+##  How to Use
 
 1. Enter any **text or URL** in the input field.
 2. Click on the **"Generate QR Code"** button.
@@ -44,7 +44,7 @@ A simple QR Code Generator built using **HTML, CSS, and JavaScript**. This tool 
 
 ---
 
-## 🔧 Installation & Setup
+##  Installation & Setup
 
 1. **Clone the repository:**
    ```bash
@@ -59,7 +59,7 @@ A simple QR Code Generator built using **HTML, CSS, and JavaScript**. This tool 
 
 ---
 
-## 🎯 Improvements & Future Updates
+##  Improvements & Future Updates
 
 - ✅ Add a **Download QR Code** feature.
 - ✅ Improve **Accessibility & Mobile UI**.
@@ -67,14 +67,10 @@ A simple QR Code Generator built using **HTML, CSS, and JavaScript**. This tool 
 
 ---
 
-## 🤝 Contributing
-Feel free to **fork this repository** and contribute to improving this project.
 
----
-
-## 📜 License
+##  License
 This project is **open-source** and free to use.
 
 ---
 
-💡 **Developed by Pranav Thorat**
+**Developed by Yatish Hemant Bharambe**
