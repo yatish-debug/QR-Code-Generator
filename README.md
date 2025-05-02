@@ -48,7 +48,7 @@ A simple QR Code Generator built using **HTML, CSS, and JavaScript**. This tool 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/qr-code-generator.git
+   git clone https://github.com/yatish-debug/qr-code-generator.git
    ```
 2. **Open the project folder:**
    ```bash
